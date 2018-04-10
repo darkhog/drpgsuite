@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="rpg_runtime.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9"/>
+        <CursorPos X="57" Y="25"/>
+        <UsageCount Value="37"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mnfrm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainGame"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="40"/>
+        <CursorPos X="41" Y="54"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\sharedcode\rpgtypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="RPGTypes"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="8"/>
+        <CursorPos X="6" Y="68"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\ide\lazarus.pp"/>
+        <UnitName Value="Lazarus"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\ide\GR32_ColorPicker.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1947"/>
+        <CursorPos X="12" Y="1961"/>
+        <UsageCount Value="8"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\castle_game_engine\src\game\castle2dscenemanager.pas"/>
+        <UnitName Value="Castle2DSceneManager"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="81" Y="23"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\castle_game_engine\src\images\castleimages.pas"/>
+        <UnitName Value="CastleImages"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2921"/>
+        <CursorPos X="21" Y="2939"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="mnfrm.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="19" Column="13"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="24" Column="13"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="23" Column="13"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="25" Column="13"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="35" Column="4" TopLine="11"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="24" Column="19" TopLine="11"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="42" Column="80" TopLine="17"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="43" Column="80" TopLine="18"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="42" Column="80" TopLine="17"/>
+      </Position10>
+      <Position11>
+        <Filename Value="..\sharedcode\rpgtypes.pas"/>
+        <Caret Line="17" Column="30"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\sharedcode\rpgtypes.pas"/>
+        <Caret Line="11" Column="5" TopLine="6"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\sharedcode\rpgtypes.pas"/>
+        <Caret Line="35" Column="15" TopLine="26"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="17" Column="27" TopLine="9"/>
+      </Position14>
+      <Position15>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="53" Column="21" TopLine="37"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="53" Column="21" TopLine="37"/>
+      </Position16>
+      <Position17>
+        <Filename Value="mnfrm.pas"/>
+        <Caret Line="48" Column="21" TopLine="40"/>
+      </Position17>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

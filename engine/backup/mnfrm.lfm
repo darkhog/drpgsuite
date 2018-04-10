@@ -1,0 +1,25 @@
+object MainGame: TMainGame
+  Left = 329
+  Height = 480
+  Top = 210
+  Width = 640
+  Caption = 'In your face, KADOKAWA and Ojima!'
+  ClientHeight = 480
+  ClientWidth = 640
+  Color = clBlack
+  OnCreate = FormCreate
+  LCLVersion = '1.8.0.6'
+  object GameArea: TCastle2DControl
+    Cursor = crNone
+    Left = 0
+    Height = 480
+    Top = 0
+    Width = 640
+    Align = alClient
+    MultiSampling = 0
+    AlphaBits = 8
+    DepthBits = 32
+    TabOrder = 0
+    OnRender = GameAreaRender
+  end
+end

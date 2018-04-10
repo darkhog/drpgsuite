@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1266912119"/>
+  <Params Value=" -MObjFPC -Scghi -CX -Os3 -Xs -XX -WG -vewnhibq -FiC:\Users\Darkhog\Documents\lazarus\D-RPGSuite\engine\lib\x86_64-win64 -FuC:\Users\Darkhog\Documents\lazarus\D-RPGSuite\sharedcode -FuC:\lazarus\castle_game_engine\packages\lib\castle_components\x86_64-win64 -FuC:\lazarus\components\ideintf\units\x86_64-win64\win32 -FuC:\lazarus\components\opengl\lib\x86_64-win64\win32 -FuC:\lazarus\components\lazcontrols\lib\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\castle_game_engine\packages\lib\castle_base\x86_64-win64 -FuC:\lazarus\castle_game_engine\src\compatibility\generics.collections\src -FuC:\lazarus\packager\units\x86_64-win64 -FuC:\Users\Darkhog\Documents\lazarus\D-RPGSuite\engine\ -FUC:\Users\Darkhog\Documents\lazarus\D-RPGSuite\engine\lib\x86_64-win64\ -dLCL -dLCLwin32 rpg_runtime.lpr"/>
+</CONFIG>
